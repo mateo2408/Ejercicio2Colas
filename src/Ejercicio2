@@ -1,0 +1,9 @@
+Realizar un ejercicio de marco fotográfico digital y tengas las siguientes opciones:
+1. Agregar una imagen
+2. Eliminar primera imagen agregada
+3. Eliminar última imagen agregada.
+4. Presentar Imagen.
+5. Siguiente Imagen (En caso de llegar a la última imagen,
+se mostrará nuevamente la primera imagen agregada)
+6. Anterior Imagen (En caso de llegar a la primera imagen,
+se mostrará nuevamente la última imagen agregada)
